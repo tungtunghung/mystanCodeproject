@@ -3,7 +3,7 @@ SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Jerry Liao.
 
-YOUR DESCRIPTION HERE
+This program will search the name entered 
 """
 
 import sys
