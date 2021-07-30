@@ -6,12 +6,12 @@ Watch my *[DEMO VIDEO!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 ## Project source codes:
 1. [Boggle game](https://github.com/tungtunghung/mystanCodeproject/blob/main/mystanCodeprojects/boggle_game/boggle.py)
-  - recursive functions
+    - recursive functions
 2. [Break out game](https://github.com/tungtunghung/mystanCodeproject/blob/main/mystanCodeprojects/break_out_game/breakout.py)
-  - animation & game designing
+    - animation & game designing
 3. [Hangman game](https://github.com/tungtunghung/mystanCodeproject/blob/main/mystanCodeprojects/hangman_game/hangman.py)
-  - python semantics & syntax
+    - python semantics & syntax
 4. [My photoshop](https://github.com/tungtunghung/mystanCodeproject/blob/main/mystanCodeprojects/my_photoshop/stanCodoshop.py)
-  - image processing
+    - image processing
 5. [Name searching system](https://github.com/tungtunghung/mystanCodeproject/blob/main/mystanCodeprojects/name_searching_system/babygraphics.py)
-  - data structure
+    - data structure
