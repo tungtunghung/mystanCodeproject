@@ -6,7 +6,7 @@ Watch my *[DEMO VIDEO!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 ## Project source codes:
 - **[Boggle game](https://github.com/tungtunghung/mystanCodeproject/blob/main/mystanCodeprojects/boggle_game/boggle.py)**\
-  recursive functions
+  - recursive functions
 - Break out game\
   animation & game designing
 - Hangman game\
