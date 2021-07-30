@@ -4,10 +4,7 @@ File: stanCodoshop.py
 SC101_Assignment3
 Adapted from Nick Parlante's
 Ghost assignment by Jerry Liao.
-
 -----------------------------------------------
-
-TODO:
 """
 
 import os
@@ -101,9 +98,6 @@ def solve(images):
             n_p.red = best.red
             n_p.green = best.green
             n_p.blue = best.blue
-    ######## YOUR CODE STARTS HERE #########
-    # Write code to populate image and create the 'ghost' effect
-    ######## YOUR CODE ENDS HERE ###########
     print("Displaying image!")
     result.show()
 
