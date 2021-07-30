@@ -3,7 +3,9 @@ SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Jerry Liao.
 
-YOUR DESCRIPTION HERE
+This program will show a line chart.
+When the user enter the names, there will be a line chart
+showing the rank of the names in recent years.
 """
 
 import tkinter
